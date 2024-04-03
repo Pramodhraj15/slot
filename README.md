@@ -53,7 +53,7 @@ Execute the program using runserver command.
 </head>
 <body>
     <img src = "http://training.saveetha.in/pluginfile.php/1/core_admin/logo/0x150/1623542614/logo_1.png" width = "800" height="150">
-    <h3 class = "name">SLOT TIMETABLE - S SAHITHYA (212221040140)</h3>
+    <h3 class = "name">SLOT TIMETABLE - R PRAMODH (212221040128)</h3>
     <table border="1" class = "table1">
         <tr class = "row1">
             <th class="c1">Day/Time</th>
